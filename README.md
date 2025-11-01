@@ -35,8 +35,8 @@ Based on the Stack Overflow Developer Survey Analysis:
 - Developers are predominantly **male**, **young**, and **located in developed countries**.
 
 For detailed visual insights, view:
-- 📄 [`Findings and Implications Report`](reports/Findings%20and%20Implications-Stack%20Overflow%20Developer%20Survey.pdf)
-- 📊 [`Dashboard Visualizations`](reports/Dashboards.pdf)
+- 📄 [`Findings and Implications Report`](https://github.com/aashpathak/IBM-Data-Analytics-StackOverflow-Project/blob/main/Findings_and_Implications_Report.pdf)
+- 📊 [`Dashboard Visualizations`](https://github.com/aashpathak/IBM-Data-Analytics-StackOverflow-Project/blob/main/Dashboard_Visualizations.pdf)
 
 ---
 
