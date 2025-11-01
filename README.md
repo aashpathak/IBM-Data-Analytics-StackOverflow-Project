@@ -1,4 +1,4 @@
-# IBM Data Analytics Capstone Project — Coursera
+# IBM Data Analytics Capstone Project - Coursera
 
 ## Project Overview
 This repository contains my final project for the **IBM Data Analyst Professional Certificate** on Coursera.  
